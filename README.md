@@ -3,7 +3,7 @@ Golang HTML5 SSE Example
 
 Deploy this app now with [gitdeploy.io](http://gitdeploy.io):
 
-[![Deploy golang-html5-sse-example via gitdeploy.io](https://img.shields.io/badge/gitdeploy.io-deploy%20golang--html5--sse--example/master-green.svg]](https://gitdeploy.ory.am/deploy?repository=https%3A%2F%2Fgithub.com%2Fory-am%2Fgolang-html5-sse-example.git)
+[![Deploy golang-html5-sse-example via gitdeploy.io](https://img.shields.io/badge/gitdeploy.io-deploy%20golang--html5--sse--example/master-green.svg)](https://gitdeploy.ory.am/deploy?repository=https%3A%2F%2Fgithub.com%2Fory-am%2Fgolang-html5-sse-example.git)
 
 This is an minimalistic example of how to do
 [HTML5 Server Side Events](http://en.wikipedia.org/wiki/Server-sent_events)
