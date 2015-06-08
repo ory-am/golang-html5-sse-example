@@ -207,7 +207,7 @@ func main() {
 			b.messages <- fmt.Sprintf("%d - the time is %v", i, time.Now())
 
 			// Print a nice log message and sleep for 5s.
-			log.Printf("Sent message %d ", i)
+			log.Printf("Sent message %d wow", i)
 			time.Sleep(5 * 1e9)
 
 		}

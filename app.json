@@ -1,0 +1,14 @@
+{
+  "name": "SSE Example",
+  "description": "This app does one little thing, and does it well.",
+  "keywords": [],
+  "website": "https://small-sharp-tool.com/",
+  "repository": "https://github.com/arekkas/golang-html5-sse-example",
+  "success_url": "/",
+  "scripts": {
+    "web": "golang-html5-sse-example"
+  },
+  "env": {
+    "BUILDPACK_URL": "https://github.com/kr/heroku-buildpack-go.git"
+  }
+}
